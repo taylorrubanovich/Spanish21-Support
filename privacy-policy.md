@@ -1,8 +1,15 @@
-# Privacy Policy for Spanish21
+---
+title: Privacy Policy for Spanish21 Strategy
+permalink: /privacy-policy.html
+---
+
+# Privacy Policy for Spanish21 Strategy
 
 **Effective date:** May 8, 2026
 
-Spanish21 ("the App") is a mobile application that provides Spanish 21 basic strategy training and gameplay simulation.
+Spanish21 Strategy ("the App") is a mobile application that provides Spanish 21 basic strategy training and gameplay simulation.
+
+[Support Home](./index.html)
 
 This Privacy Policy explains what information the App collects, how it is used, and what choices users have.
 
@@ -70,4 +77,4 @@ This Privacy Policy may be updated from time to time. When updates are made, the
 
 ## Contact
 
-If you have questions about this Privacy Policy, you can use the contact email taylorrubanovich@gmail.com.
+If you have questions about this Privacy Policy, contact [taylorrubanovich@gmail.com](mailto:taylorrubanovich@gmail.com?subject=Spanish21%20Strategy%20Privacy%20Question).
